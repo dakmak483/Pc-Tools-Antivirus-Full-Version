@@ -235,4 +235,4 @@ This repository serves as the official landing page for PC Tools AntiVirus. The 
 **Get the most recent version of PC Tools AntiVirus today!**
 
 ---
-**Last updated:** 2026-09-13 17:16:24 UTC
+**Last updated:** 2026-09-13 20:21:06 UTC
